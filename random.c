@@ -7,5 +7,7 @@
 
 
 char randchar() {
+
     return 'a' + rand() % 26;
+
 }

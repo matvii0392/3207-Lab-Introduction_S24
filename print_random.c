@@ -4,8 +4,7 @@
 
 #include "random.c"
 
-int main()
-{
+int main() {
     int a;
 
     /* seed the randomizer */
